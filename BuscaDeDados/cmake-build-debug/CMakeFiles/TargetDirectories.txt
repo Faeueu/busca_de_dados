@@ -1,0 +1,3 @@
+C:/Users/Edson/Documents/listaAtvdd_Clion/BuscaDeDados/cmake-build-debug/CMakeFiles/BuscaDeDados.dir
+C:/Users/Edson/Documents/listaAtvdd_Clion/BuscaDeDados/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Edson/Documents/listaAtvdd_Clion/BuscaDeDados/cmake-build-debug/CMakeFiles/rebuild_cache.dir
